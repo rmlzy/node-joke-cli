@@ -1,5 +1,5 @@
 {
-  "name": "joke-cli",
+  "name": "node-joke-cli",
   "description": "a joke cli",
   "version": "1.0.0",
   "author": "rmlzy@outlook.com <rmlzy@outlook.com> (https://poppython.com)",
@@ -38,7 +38,7 @@
   "engines": {
     "node": ">= 10"
   },
-  "homepage": "https://github.com/rmlzy/joke-cli",
+  "homepage": "https://github.com/rmlzy/node-joke-cli",
   "keywords": [
     "joke-cli",
     "lass"
@@ -47,7 +47,7 @@
   "main": "cli.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rmlzy/joke-cli"
+    "url": "https://github.com/rmlzy/node-joke-cli"
   },
   "scripts": {
     "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",

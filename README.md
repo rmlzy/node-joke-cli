@@ -3,8 +3,8 @@ Type `joke` in your terminal, your will get it.
 ## Installation
 
 ```
-npm i -g joke-cli
+npm i -g node-joke-cli
 
 # or
-yarn global add joke-cli
+yarn global add node-joke-cli
 ```
