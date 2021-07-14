@@ -1,7 +1,7 @@
 {
   "name": "node-joke-cli",
   "description": "a joke cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "rmlzy@outlook.com <rmlzy@outlook.com> (https://poppython.com)",
   "bin": {
     "joke": "cli.js"
